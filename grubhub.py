@@ -45,6 +45,7 @@ for line in tdps:
 
     subtract = browser.find_element_by_class_name('spinner-control')
 
+    # This is where you can determine the price
     for i in range(0, 16):
         subtract.click()
 
