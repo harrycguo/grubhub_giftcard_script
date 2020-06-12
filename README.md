@@ -7,7 +7,8 @@ Need to install selenium for python:
 pip3 install selenium
 ```
 
-Need to have ChromeDriver https://chromedriver.chromium.org/downloads
+Need to have ChromeDriver. 
+https://chromedriver.chromium.org/downloads
 
 It needs to be the same version of chrome you currently have. To check, go to `chrome://version` in your Google Chrome browser.
 
