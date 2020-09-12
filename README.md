@@ -20,3 +20,9 @@ Max of $1999 in total gift cards per transaction. (Any more, you need to registe
 
 Max of 15 unique recipeints per transaction.
 
+If you run into issues where the browser can't find the element, try and add a wait between. 
+```
+import time
+
+time.sleep(1) # 1 second wait
+```
